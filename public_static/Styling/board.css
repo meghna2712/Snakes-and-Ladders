@@ -1,0 +1,38 @@
+#s1{
+    height: 170px;
+    margin-left: 630px;
+}
+
+#s2{
+    height: 170px;
+    margin-left: 1025px;
+}
+
+#s3{
+    height: 170px;
+    margin-left: 630px;
+}
+#s4{
+    position:absolute;
+    height: 170px;
+    margin-left: 1025px;
+
+}
+
+
+#begin{
+    cursor: pointer;
+    background: white;
+    color: cadetblue;
+    font-size: x-large;
+    margin-top: 350px;
+    margin-left: 600px;
+    border-radius: 5px;
+    border: solid;
+    border-color: cadetblue;
+
+}
+#begin:active{
+    background: cadetblue;
+    color: white;
+}
